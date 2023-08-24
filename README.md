@@ -3,8 +3,6 @@ Hi 👋 My name is Arkin Baris Demirtas
 
 Blockchain Developer
 --------------------
-
-* 🌍  I'm based in Izmir
 * ✉️  You can contact me at [demirtasarkinbaris@gmail.com](mailto:demirtasarkinbaris@gmail.com)
 
 ### Skills
