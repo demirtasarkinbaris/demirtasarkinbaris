@@ -1,9 +1,5 @@
-Hi 👋 My name is Arkin Baris Demirtas
-=====================================
-
-Blockchain Developer
---------------------
-* ✉️  You can contact me at [demirtasarkinbaris@gmail.com](mailto:demirtasarkinbaris@gmail.com)
+<h1 align="center">Hi 👋, I'm Arkin Baris Demirtas</h1>
+<h3 align="center">I'm Blockchain Developer</h3>
 
 ### Skills
 
